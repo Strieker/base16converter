@@ -1,0 +1,28 @@
+
+body {
+	background-color: black;
+	text-align: center;
+}
+
+h1, #result, #base10InputBox {
+	font-family: 'Audiowide', cursive;
+}
+
+h1, #result {
+	color: white;
+}
+
+#base10InputBox {
+	color: grey;
+	width: 40%;
+	text-align: center;
+	border: None;
+}
+
+#result {
+	font-size: 100px;
+}
+
+img {
+	position:fixed;
+}
